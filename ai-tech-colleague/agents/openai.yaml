@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI 技术同事"
+  short_description: "面向业务同学判断 AI 想法、试点路径、资源风险和汇报口径。"
+  default_prompt: "Use $ai-tech-colleague to judge this AI idea for a non-technical business user, explain the pilot path, needed resources, risks, simple concepts, and leadership wording."
+policy:
+  allow_implicit_invocation: false
